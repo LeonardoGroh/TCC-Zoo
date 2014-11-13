@@ -1,0 +1,32 @@
+Introdução 
+Falar sobre o ZOO *
+Falar sobre o problema de manejo *
+Descrever o ambiente *
+
+Analise
+Descricao CASO 
+Analise de requisitos *
+Intro. UML *
+Casos USO *
+Diag. Classe
+E.R Entidade relacionamento
+Prototipação de tela.
+
+Tecnologias de desenvolvimento
+PHP *
+MySQL *
+Frameworks *
+Padrões de Projeto 
+Desenvolvimento
+IDE _ tanto p/ php quanto p/ o banco. *
+Servidor Apache utilizado (XAMP WAMP) descrever o que é;
+Versionamento (GITHUB)
+Escolher alguns arquivos código, anexar e comentar eles;
+
+Resultados
+Telas
+Códigos
+Etc.
+
+Conclusao
+Falar dificuldades e resultados atingidos.
