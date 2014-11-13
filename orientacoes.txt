@@ -1,0 +1,32 @@
+ok vejamos: 
+temos que formatar as citções longas mas eu faço isso depois;
+eu preciso que, em todos os textos que tu fez sobre as tecnologias utilizadas, vai até os links da refrência e pelo menos faça uma citação indireta do que tu falou (explicado a seguir):
+Citação indireta
+
+Depois de ler um artigo, você chegou a uma conclusão semelhante a do autor consultado. Mas por algum motivo pessoal, você não tem interesse em usar as mesmas palavras e exatamente a mesma estrutura que encontrou no artigo em questão. Nesse caso, você fará uma citação indireta, já que o seu texto teve como base uma obra consultada.
+
+Seguindo o mesmo formato de apresentação da citação direta, a indireta também deve conter o autor da frase citada, bem como o ano da publicação do artigo/livro. Apresentar a página em que o conteúdo se encontra é recomendado.
+
+Exemplos:
+
+Um aspecto importante na recuperação das informações é a extensão dos conteúdos a serem indexados (LANCASTER, 1993, p. 73).
+
+As citações indiretas podem ter mais de um autor, até pelo fato de que você pode ter consultado várias obras até chegar a sua conclusão, veja:
+
+Tanto Weaver (2002, p.18) como Semonche (1993, p. 21) apontam questionamentos que devem preceder o planejamento da indexação de artigos de jornais, como: Qual a finalidade do artigo? Quem é o público-alvo que terá acesso ao artigo? Que tipo de informação o usuário procura?
+
+Também preciso que tu pegue as tuas explicações do bd e coloque o que é SQL em courrier new. e tenta não dar tanto espaçamento entre os textos.
+
+Vou me preocupar agora em : 
+descrever como foi a pesquisa in loco mostrando o que a gente recolheu de dados.
+Explicar o funcionamento do software na forma do EER
+Prototipar as telas e fazer funcionar pelo menos o crud do animal
+
+Daí caso tu acabe a tua parte, tenta ve a questão das imagens que faltaram ( o que q tu teve problemas co m a imagem ? n entendi).
+
+Obs.: Fica calmo, aquilo que o flango falou sobre "do jeito que está não serão aprovados" é porque o documento está mesmo com muita formatação errada,
+  tem muita coisa la sem citação (principalmente a parte das tecnologias utilizadas que falei acima) e ele sabe que a luciane é chata pra isso,
+ e támbem porque falta a parte da programação em si (parcil como ele disse ja ta bom).
+ 
+
+
